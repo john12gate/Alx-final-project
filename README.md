@@ -1,4 +1,5 @@
-Developed by Ali Onuche John
+Pacman developed by Ali Onuche John
+![Local Image](assets/Screenshot 2024-01-10 171156.png)
 
 The Pacman is a classic arcade game that was first released in 1980 by Namco. 
 Created by Toru Iwatani, Pacman quickly became one of the most iconic and recognizable video games in the world. 
