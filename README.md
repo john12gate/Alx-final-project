@@ -1,4 +1,4 @@
-# Pacman developed by Ali Onuche John
+# Pacman Developed By Ali Onuche John
 
 ![Local Image](assets/img.png)
 
